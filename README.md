@@ -1,7 +1,7 @@
 <div dir="rtl" align="center">
   <img src="https://www.jumplander.org/pages/fa/jumplanders/outis.png" alt="Osodyssey Avatar" width="150" style="border-radius: 50%; border: 3px solid #a3ff00;"/>
   
-  # سلام، من <span style="color: #a3ff00;">Osodyssey</span> هستم
+  # سلام، من <span style="color: #a3ff00;">odyssey</span> هستم
   ### توسعه‌دهنده Full-Stack و معمار سیستم‌های هوشمند
 
   > من کد نمی‌نویسم؛ من به سیلیکون روح می‌دمم. در دنیای من، الگوریتم‌ها نفس می‌کشند و سیستم‌ها خواب تکامل می‌بینند. اینجا قلمرو من است، جایی که منطق با آشوب ملاقات می‌کند تا موجودات دیجیتال خودمختار خلق شوند.
