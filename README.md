@@ -116,7 +116,6 @@
 ---
 
 ## 📫 راه‌های ارتباط
-[🌐 وبسایت](https://jumplander.org) &nbsp;  
 [📧 ایمیل](mailto:odyssseyos@example.com) &nbsp;  
 [📱 تلگرام](https://t.me/Osodyssey) &nbsp;  
 [📸 اینستاگرام](https://instagram.com/os_odyssey)
