@@ -132,6 +132,6 @@ if (problem.isNonTrivial() && solution.requiresSacrifice()) {
 </div>
 
 <div align="center">
-  <img src="https://www.jumplander.org/assets/89p.png" />
+  <img src="https://www.jumplander.org/assets/89p.png" width="70%"/>
   <p><code>&gt; S E S S I O N _ T E R M I N A T E D</code></p>
 </div>
