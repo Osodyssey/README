@@ -15,26 +15,26 @@
 </div>
 
 <!-- NAVIGATION CARDS -->
-<div style="display: flex; justify-content: center; gap: 25px; margin-top: 50px; flex-wrap: wrap; padding: 0 20px;">
-  <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto;">
+<div style="text-align: center; padding: 0 20px;">
+  <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate; mso-table-lspace:0pt; mso-table-rspace:0pt;">
     <tbody>
       <tr>
-        <td style="background-color: #14251c; padding: 30px 40px; border-radius: 12px; width: 220px; text-align: center; border: 1px solid #2a3a32;">
-          <div style="font-size: 40px; margin-bottom: 15px;">
+        <td style="background-color: #14251c; padding: 30px 40px; border-radius: 12px; text-align: center; border: 1px solid #2a3a32;">
+          <div style="margin-bottom: 15px;">
             <img src="https://www.jumplander.org/assets/about/agent.png" width="45" alt="Full-Stack"/>
           </div>
           <h3 style="font-size: 18px; font-weight: 400; color: #f0f0f0; margin:0;">معماری Full-Stack</h3>
         </td>
         <td width="25"></td>
-        <td style="background-color: #14251c; padding: 30px 40px; border-radius: 12px; width: 220px; text-align: center; border: 1px solid #2a3a32;">
-          <div style="font-size: 40px; margin-bottom: 15px;">
+        <td style="background-color: #14251c; padding: 30px 40px; border-radius: 12px; text-align: center; border: 1px solid #2a3a32;">
+          <div style="margin-bottom: 15px;">
             <img src="https://www.jumplander.org/assets/about/agentbrain.png" width="45" alt="AI Engineering"/>
           </div>
           <h3 style="font-size: 18px; font-weight: 400; color: #f0f0f0; margin:0;">مهندسی هوش مصنوعی</h3>
         </td>
         <td width="25"></td>
-        <td style="background-color: #14251c; padding: 30px 40px; border-radius: 12px; width: 220px; text-align: center; border: 1px solid #2a3a32;">
-          <div style="font-size: 40px; margin-bottom: 15px;">
+        <td style="background-color: #14251c; padding: 30px 40px; border-radius: 12px; text-align: center; border: 1px solid #2a3a32;">
+          <div style="margin-bottom: 15px;">
             <img src="https://www.jumplander.org/assets/about/debug.png" width="45" alt="MLOps"/>
           </div>
           <h3 style="font-size: 18px; font-weight: 400; color: #f0f0f0; margin:0;">زیرساخت و MLOps</h3>
@@ -44,8 +44,13 @@
   </table>
 </div>
 
-<!-- POSTS SECTION (PROJECTS) -->
+<!-- SEPARATOR -->
 <div style="padding: 40px 10%;">
+  <hr style="border: none; border-top: 1px solid #2a3a32;">
+</div>
+
+<!-- POSTS SECTION (PROJECTS) -->
+<div style="padding: 0 10%;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
     
     <!-- Project Card 1: Jumplander -->
