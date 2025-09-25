@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.jumplander.org/core-v" width="100%"/>
+  <img src="https://www.jumplander.org/assets/jumpo (4).png" width="100%"/>
 
 <pre>
   ██████╗ ███████╗ ██████╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗
