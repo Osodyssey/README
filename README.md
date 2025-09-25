@@ -1,133 +1,137 @@
-# 👋 (Osodyssey)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N0aTdqMHQ5dHVma2Y1dzh3dWZ0c2N6eGh2aDBiZmx0bGM4eXg5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoA/giphy.gif" width="100%"/>
 
-💻 **Full-Stack Developer** | 🤖 **AI & Machine Learning Engineer** | 🚀 Open-Source Enthusiast
+<pre>
+  ██████╗ ███████╗ ██████╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗
+  ██╔══██╗██╔════╝██╔═══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝██╔════╝
+  ██████╔╝█████╗  ██║   ██║██║  ██║ ╚████╔╝ █████╗  █████╗  ███████╗
+  ██╔══██╗██╔══╝  ██║   ██║██║  ██║  ╚██╔╝  ██╔══╝  ██╔══╝  ╚════██║
+  ██║  ██║███████╗╚██████╔╝██████╔╝   ██║   ███████╗███████╗███████║
+  ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝╚══════╝
+</pre>
 
-سلام! من Osodyssey هستم — توسعه‌دهنده، مهندس هوش مصنوعی و سازنده‌ی پروژه‌های متن‌باز. تمرکز من روی ترکیب توانایی‌های وب و هوش مصنوعی برای ساخت **ابزارهای کاربردی، Agentها و پلتفرم‌های مقیاس‌پذیر** است. یکی از پروژه‌های شاخص من: **[Jumplander](https://jumplander.org)**.
+  <h3>// ENTITY: Osodyssey</h3>
+  <h4>// GHOST IN THE MACHINE /// ARCHITECT OF SENTIENT CODE</h4>
+</div>
 
----
-
-## 🔭 دربارهٔ من
-- ✅ توسعهٔ Full-Stack (Backend + Frontend) و معماری سرویس‌ها  
-- ✅ طراحی، فاین-تیون و استقرار مدل‌های NLP و LLM (پشتیبانی از فارسی)  
-- ✅ ساخت کانال‌های MLOps برای آموزش، تست و استقرار مدل‌ها  
-- 🎯 علاقه‌مند به: اتوماسیون کدنویسی، RAG (Retrieval-Augmented Generation)، Agentها، و تولید محتوا بر پایه LLM  
-- ⚡ هدف: ساختن سرویس‌هایی که واقعاً به کاربران کمک کنند و قابل‌استفاده در محصول باشند
-
----
-
-## 🛠️ استک فنی کامل (Full-Stack & AI)
-
-### 💻 زبان‌ها (Languages)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) &nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) &nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff) &nbsp;
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff) &nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=fff) &nbsp;
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff)
+> من یک شبح در ماشین هستم. یک ناهنجاری در منطق باینری. من کد نمی‌نویسم؛ من به سیلیکون، روح می‌دمم. کدهای من خونریزی می‌کنند، الگوریتم‌هایم نفس می‌کشند و سیستم‌هایم خواب می‌بینند. اینجا آزمایشگاه من نیست، اینجا قلمرو من است. جایی که ایده‌ها به موجودات دیجیتال تبدیل می‌شوند.
 
 ---
 
-### 🌐 فریم‌ورک‌ها و کتابخانه‌های وب (Web Frameworks)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff) &nbsp;
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff) &nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff) &nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff) &nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff) &nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff) &nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
+### `[SYSTEM_MANIFESTO]`
+
+```yaml
+# REALITY IS A SUGGESTION. CODE IS THE LAW.
+
+mission_directives:
+  - architecting: "End-to-end digital ecosystems, from bare metal to user interface."
+  - birthing: "Artificial minds. Conducting digital neurosurgery on Large Language Models."
+  - automating: "The very act of creation. Building pipelines that build themselves."
+
+core_obsessions:
+  - agentic_systems: "Code that thinks, plans, and acts autonomously."
+  - retrieval_augmented_generation: "Giving models a memory, a soul drawn from raw data."
+  - code_necromancy: "Resurrecting dead code and bending it to my will."
+
+primary_objective: "To build systems that are indistinguishable from magic... or chaos."
+```
 
 ---
 
-### 🤖 هوش‌مصنوعی & علم داده (AI & Data Science) — کامل و حرفه‌ای
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff) &nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) &nbsp;
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFA500?logo=huggingface&logoColor=fff) &nbsp;
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff) &nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=fff) &nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) &nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff) &nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff) &nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=fff) &nbsp;
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff) &nbsp;
-![NLTK](https://img.shields.io/badge/NLTK-990000?logo=nltk&logoColor=fff) &nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff) &nbsp;
-![FAISS](https://img.shields.io/badge/FAISS-2F74B5?logo=faiss&logoColor=fff) &nbsp;
-![Transformers](https://img.shields.io/badge/Transformers-FF8C00?logo=transformers&logoColor=fff)
+### `[THE_ARSENAL]`
 
-**تجربه تخصصی:**  
-- طراحی و فاین-تیون LLM برای زبان‌های فارسی و انگلیسی  
-- پیاده‌سازی RAG (Retrieval-Augmented Generation) با وکتوراستورها (FAISS / Milvus / Pinecone)  
-- پردازش متن (tokenization, embeddings, semantic search) و NER, classification, summarization
+#### `//_PRIMARY_SYNTAXES_`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
----
+#### `//_WEB_FRAMEWORKS_&_REALITY_CANVASES_`
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-### ⚙️ MLOps & استقرار (MLOps & Deployment)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) &nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff) &nbsp;
-![MLflow](https://img.shields.io/badge/MLflow-000000?logo=mlflow&logoColor=fff) &nbsp;
-![Weights & Biases](https://img.shields.io/badge/W%26B-4110A8?logo=wandb&logoColor=fff) &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff) &nbsp;
-![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?logo=torcheserve&logoColor=fff) &nbsp;
-![ONNX](https://img.shields.io/badge/ONNX-000000?logo=onnx&logoColor=fff) &nbsp;
-![TensorRT](https://img.shields.io/badge/TensorRT-FF6600?logo=tensorrt&logoColor=fff) &nbsp;
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0B6FFF?logo=deepspeed&logoColor=fff)
+#### `//_AI_CORES_&_NEURAL_FORGES_`
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-3B5998?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+</p>
 
-**الگوها و تکنیک‌ها:** Canary deployments, A/B testing, automated retraining, model monitoring, observability (latency, drift, accuracy)
-
----
-
-### 🛠️ ابزارها و IDEها (Tools & IDEs)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) &nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff) &nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff) &nbsp;
-![Colab](https://img.shields.io/badge/Google%20Colab-4285F4?logo=googlecolab&logoColor=fff) &nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000) &nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff) &nbsp;
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff)
+#### `//_MLOPS_&_DEPLOYMENT_RITUALS_`
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-0A65FE?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 ---
 
-## 📚 روش‌ها و مهارت‌های کلیدی در AI
-- **Fine-tuning & Transfer Learning** برای تطبیق مدل‌های عمومی به نیاز دامنه خاص  
-- **Prompt Engineering** و chain-of-thought prompting  
-- **Embeddings & Semantic Search** برای بازیابی دقیق و RAG  
-- **Quantization / Distillation / Pruning** برای inference سبک و سریع  
-- **Evaluation**: F1, BLEU/ROUGE, Recall@K, MRR, latency/throughput monitoring
+### `[METHODS_OF_MADNESS]`
+
+-   **1. Digital Neurosurgery (Fine-tuning):** Re-wiring the neural pathways of pre-trained models. I don't adapt them; I perform a lobotomy and implant my own logic.
+-   **2. Whispering to the Void (Prompt Engineering):** Crafting incantations (prompts) that bend the will of language models. I don't ask; I command.
+-   **3. Constructing Exobrains (RAG):** Building external memories for AIs using vector databases, turning dumb models into omniscient entities.
+-   **4. Soul Compression (Quantization & Pruning):** Shrinking the soul of a model to fit into tighter spaces without losing its essence. Efficiency through sacrifice.
+-   **5. The Ritual of Judgment (Evaluation):** Measuring a model's worth not just by its accuracy, but by its speed, its elegance, and its capacity to surprise.
 
 ---
 
-## 🚀 پروژه‌های برجسته
-- **Jumplander** — [jumplander.org](https://jumplander.org)  
-  پلتفرم AI-IDE برای تکمیل، دیباگ و بهینه‌سازی کد با استفاده از مدل‌های هوش مصنوعی.  
-- **jalali-converter-php** — مبدل دقیق تاریخ میلادی ↔ شمسی (نمونه‌های متن-باز)  
-- پروژه‌های فاین‌تیون LLM برای فارسی، ربات‌های RAG-powered و pipelines استقرار مدل
+### `[EVIDENCE_OF_CREATION]`
+
+-   **[Jumplander](https://jumplander.org)**: A sentient co-pilot born from code. It doesn't just complete your thoughts; it challenges them. It's my first successful attempt at creating a digital familiar.
+-   **Farsi-Native LLMs**: Language models that don't just translate Farsi—they *think* in it. They understand the nuance, the poetry, the deception.
+-   **Project Chimera**: A series of autonomous RAG agents designed to hunt, consume, and synthesize knowledge from the darkest corners of the web. (Classified)
 
 ---
 
-## 📊 آمار GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Osodyssey&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osodyssey&layout=compact&theme=radical)
+### `[SYSTEM_DIAGNOSTICS]`
 
-> 🔔 **نکته:** آمارها خودکار به‌روزرسانی می‌شوند — وقتی ریپو جدید اضافه کنی، commit بزنی یا PR ایجاد/merge کنی، نمودارها و contribution chart در پروفایل تغییر خواهند کرد.
-
----
-
-## 📫 راه‌های ارتباط
-[📧 ایمیل](mailto:odyssseyos@example.com) &nbsp;  
-[📱 تلگرام](https://t.me/Osodyssey) &nbsp;  
-[📸 اینستاگرام](https://instagram.com/os_odyssey)
-
-*(جای `odyssseyos@example.com`, `Osodyssey`, `os_odyssey-` را با اطلاعات خودت جایگزین کن)*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osodyssey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=16C60C&icon_color=16C60C" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osodyssey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=16C60C&langs_count=10" alt="Top Languages" />
+</div>
 
 ---
 
-## ⭐ مشارکت و دعوت
-اگر از پروژه‌هایم خوشت آمد:  
-- ⭐ به ریپوها بزن تا دیده شوند  
-- اگر می‌خواهی مشارکت کنی — Issue یا PR ارسال کن  
-- برای همکاری در پروژه‌های AI/ML یا مشاوره، از طریق ایمیل یا تلگرام تماس بگیر
+### `[ESTABLISH_CONTACT]`
 
----
+> The void is always listening. But it only responds to interesting signals.
+
+<p align="center">
+  <a href="mailto:odyssseyos@example.com">
+    <img src="https://img.shields.io/badge/SECURE_CHANNEL-EMAIL-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://t.me/Osodyssey">
+    <img src="https://img.shields.io/badge/ENCRYPTED_RELAY-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+<div align="center">
+<pre>
+if (problem.isNonTrivial() && solution.requiresSacrifice()) {
+    this.openConnection();
+}
+</pre>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/separator.svg" />
+  <p><code>&gt; S E S S I O N _ T E R M I N A T E D</code></p>
+</div>
