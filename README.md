@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N0aTdqMHQ5dHVma2Y1dzh3dWZ0c2N6eGh2aDBiZmx0bGM4eXg5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoA/giphy.gif" width="100%"/>
+  <img src="https://www.jumplander.org/core-v" width="100%"/>
 
 <pre>
   ██████╗ ███████╗ ██████╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗
