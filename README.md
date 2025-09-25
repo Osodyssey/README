@@ -117,13 +117,11 @@
 
 ## 📫 راه‌های ارتباط
 [🌐 وبسایت شخصی](https://jumplander.org) &nbsp;  
-[📧 ایمیل](mailto:yourmail@example.com) &nbsp;  
-[💼 لینکدین](https://linkedin.com) &nbsp;  
-[🐦 توییتر](https://twitter.com) &nbsp;  
-[📱 تلگرام](https://t.me/your-telegram-username) &nbsp;  
-[📸 اینستاگرام](https://instagram.com/your-instagram-username)
+[📧 ایمیل](mailto:odyssseyos@example.com) &nbsp;  
+[📱 تلگرام](https://t.me/Osodyssey) &nbsp;  
+[📸 اینستاگرام](https://instagram.com/os_odyssey)
 
-*(جای `yourmail@example.com`, `your-telegram-username`, `your-instagram-username` را با اطلاعات خودت جایگزین کن)*
+*(جای `odyssseyos@example.com`, `Osodyssey`, `os_odyssey-` را با اطلاعات خودت جایگزین کن)*
 
 ---
 
