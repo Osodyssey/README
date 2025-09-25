@@ -132,6 +132,6 @@ if (problem.isNonTrivial() && solution.requiresSacrifice()) {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/separator.svg" />
+  <img src="https://www.jumplander.org/assets/89p.png" />
   <p><code>&gt; S E S S I O N _ T E R M I N A T E D</code></p>
 </div>
