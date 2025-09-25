@@ -87,10 +87,9 @@
 ---
 
 ### 📫 ارتباط و نمایش در پروفایل
-[🌐 وبسایت شخصی](https://jumplander.org)  
-[📧 ایمیل](mailto:yourmail@example.com)  
-[📱 تلگرام](https://t.me/yourusername)  
-[📸 اینستاگرام](https://instagram.com/yourusername)
+[🌐 وبسایت شخصی](https://jumplander.org)   
+[📱 تلگرام](https://t.me/Osodysset)  
+[📸 اینستاگرام](https://instagram.com/os_odyssey)
 
 ---
 
