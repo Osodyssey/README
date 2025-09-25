@@ -1,4 +1,4 @@
-# 👋 سلام! من(Osodyssey)
+# 👋 (Osodyssey)
 
 💻 **Full-Stack Developer** | 🤖 **AI & Machine Learning Engineer** | 🚀 Open-Source Enthusiast
 
